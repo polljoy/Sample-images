@@ -6,3 +6,5 @@
 # Sample-images
 
 border image and button images example.
+
+![Picture](image_dimension.png)
