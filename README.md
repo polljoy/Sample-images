@@ -7,4 +7,4 @@
 
 border image and button images example.
 
-![Picture](image_dimension.png)
+![Picture](image_dimension.jpg)
